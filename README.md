@@ -1,16 +1,53 @@
-## Hi there 👋
+> ghostinit initializing...
+```
 
-<!--
-**ghostinit/ghostinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ghostinit
 
-Here are some ideas to get you started:
+**Offline-first. Ad-free. Rebel-coded.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “The future is here — it’s just not evenly distributed.”
+
+---
+
+## 🛠️ Projects
+
+### 🔹 [NullRider](https://nullrider.com)
+An offline-first app platform template. Built for those who refuse to be tracked, profiled, or sold.
+- Zero cloud dependency
+- Swift + SwiftUI foundation
+- Local storage first. No SaaS.
+
+More tools, libraries, and modules incoming.
+
+---
+
+## 🧙 Philosophy
+
+I believe in:
+- **Simplicity > Bloat**
+- **Ownership > Dependence**
+- **Privacy > Monetization**
+
+NullRider is the rebel forge for digital tools that respect your autonomy.
+
+---
+
+## 🔄 Currently Learning
+
+- Swift / SwiftUI
+- App architecture & state management
+- Building a local-first data system
+- Owning the stack from code to UX
+
+---
+
+## 🤖 System Status
+```
+[✓] Domain claimed
+[✓] Static site live
+[✓] GitHub secured
+[ ] First public repo deployed
+```
+
+
+**Stay in the shadows. Build in the light.**
