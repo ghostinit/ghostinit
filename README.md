@@ -1,53 +1,33 @@
-> ghostinit initializing...
-```
+# ghostinit: A Nullrider
 
-# ghostinit
+### Nullrider = A personal philosophy and approach to coding and life in general
 
-**Offline-first. Ad-free. Rebel-coded.**
+#### Core Beliefs
+- Privacy > Convienience
+- Simplicity > Bloat
+- Owning your system > Paying someone else to
+- Humanity & Compassion > profit
+- Purpose > Blindly Following
 
-> “The future is here — it’s just not evenly distributed.”
+- Push back against data harvesting and survielence
+- Write clean, functional code
+- Live honestly
+- Admit and correct mistakes
+- Be kind (even when its hard)
+- Stand up for what you know to be true and just
+- Don't give up
+- Collaborate openly with like minded people
+- Help others escape corporate ecosystems should the choose to try
 
----
+#### How I am applying this in my life
 
-## 🛠️ Projects
+My goal is to setup my own personal digital backend. Including:
+- Cloud storage / access
+- Password management
+- CalDav & CardDav
 
-### 🔹 [NullRider](https://nullrider.com)
-An offline-first app platform template. Built for those who refuse to be tracked, profiled, or sold.
-- Zero cloud dependency
-- Swift + SwiftUI foundation
-- Local storage first. No SaaS.
+I will start here, evaluate functionality and expand from there.
+Ultimately I hope to (as much as possible) be free of the ecosystems
+of the 3 major players: Microsoft, Apple & Google.
 
-More tools, libraries, and modules incoming.
-
----
-
-## 🧙 Philosophy
-
-I believe in:
-- **Simplicity > Bloat**
-- **Ownership > Dependence**
-- **Privacy > Monetization**
-
-NullRider is the rebel forge for digital tools that respect your autonomy.
-
----
-
-## 🔄 Currently Learning
-
-- Swift / SwiftUI
-- App architecture & state management
-- Building a local-first data system
-- Owning the stack from code to UX
-
----
-
-## 🤖 System Status
-```
-[✓] Domain claimed
-[✓] Static site live
-[✓] GitHub secured
-[ ] First public repo deployed
-```
-
-
-**Stay in the shadows. Build in the light.**
+See this repo for progress updates.
