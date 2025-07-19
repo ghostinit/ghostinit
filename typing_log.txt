@@ -31,3 +31,5 @@ Date  | Spec | Num
 07/13 | 388  | 603
 07/14 | 373  | 514
 07/15 | 326  |     <--- FROM HERE FORWARD, ODD DAYS WILL BE FOR ACCURACY, EVEN DAYS FOR SPEED
+
+Small change
